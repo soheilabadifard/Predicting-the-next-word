@@ -1,6 +1,6 @@
 # Predicting the next word
 
-1) train it using a corpus of Shakespeare's sonnets
+1) train a model using a corpus of Shakespeare's sonnets
 2) predict the next word in a text sequence
 3) creating some helper functions to pre-process the data
 
@@ -13,4 +13,3 @@
 6) Embedding
 7) LSTM
 8) Dense
-   
